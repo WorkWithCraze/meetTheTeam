@@ -1,0 +1,20 @@
+{
+  "name": "meetTheTeam",
+  "version": "1.0.0",
+  "description": "A customized Video Conferencing app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavarora102/meetTheTeam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhavarora102/meetTheTeam/issues"
+  },
+  "homepage": "https://github.com/vaibhavarora102/meetTheTeam#readme"
+}
