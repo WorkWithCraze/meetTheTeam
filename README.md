@@ -97,9 +97,3 @@ git push -u origin <your_branch_name>
   	</td>
   </tr>
   </ta>
-  
-
-## Want to Contribute?
-
-To start contributing, follow the below 
-
