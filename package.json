@@ -4,7 +4,8 @@
   "description": "A customized Video Conferencing app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/vaibhavarora102/meetTheTeam/issues"
   },
-  "homepage": "https://github.com/vaibhavarora102/meetTheTeam#readme"
+  "homepage": "https://github.com/vaibhavarora102/meetTheTeam#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
