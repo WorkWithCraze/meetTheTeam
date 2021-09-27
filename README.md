@@ -16,10 +16,9 @@
 <a href="https://github.com/WorkWithCraze/meetTheTeam/pulls"><img src="https://img.shields.io/github/issues-pr/WorkWithCraze/meetTheTeam?color=brightgreen"></a>
 <a href="https://github.com/WorkWithCraze/meetTheTeam/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/WorkWithCraze/meetTheTeam?color=0059b3"></a> 
 
-## A library to To explore DNA concepts in dept for both medical and Research purpose.
 </div>
 
-## 📜 Instructions to follow while contributing to DLib
+## 📜 Instructions to follow while contributing to meetTheTeam
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
